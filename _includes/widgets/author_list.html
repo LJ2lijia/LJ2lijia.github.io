@@ -26,7 +26,9 @@
     {%- endif -%}
 
     {%- if info['bold'] == true -%}
-        {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
+        {%- assign display_name = name | append: mark | prepend: "<strong><u>" | append: "</u></strong>" -%}
+    {%- elsif info['underline'] == true -%}
+        {%- assign display_name = name | append: mark | prepend: "<u>" | append: "</u>" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
     {%- endif -%}

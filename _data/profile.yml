@@ -23,16 +23,17 @@ orcid: 0000-0002-5579-8852
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year Ph.D. Student at the School of Computer Science, Peking University (PKU). My supervisor is Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>. I expect to graduate in July 2025. My research directions are:
-    <ul>
-      <li><b>Efficient AI</b>, studying how to improve the efficiency of AI models, such as inference efficiency.</li>
-      <li><b>AI Safety</b>, studying how to improve the robustness of AI models to malicious attacks, such as jailbreaking robustness.</li>
-      <li><b>Intelligent Software Engineering</b>, studying how to use AI to improve the efficiency of software engineering, such as code generation.</li>
-    </ul>
+    I am a final-year Ph.D. Student at the School of Computer Science, Peking University (PKU). My supervisor is Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>. I expect to graduate in July 2025. 
   </p>
+
   <p>
      I will join the College of AI at Tsinghua University as an assistant professor in September 2025! I am looking for two <b>PhD students</b> to start in September 2026 and <b>intern students</b>. Feel free to email me with your resume attached.
   </p>
+    
+  <p>
+    My research direction is <b>AI Safety</b>, focusing on identifying and mitigating safety risks brought by LLMs in cyberspace.
+  </p>
+
 
 portrait_url: /assets/images/photos/pic.jpg
 # portrait_caption: >-

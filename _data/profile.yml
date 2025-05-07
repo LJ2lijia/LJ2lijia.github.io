@@ -31,9 +31,12 @@ short_bio: >-
   </p>
     
   <p>
-    My research direction is <b>AI Safety</b>, focusing on identifying and mitigating safety risks brought by LLMs in cyberspace.
+    My research directions include:
+    <ul>
+      <li>Intelligent Software Engineering (AI for SE), studying how to use AI to improve the efficiency and quality of software engineering, such as code generation, test generation, and code optimization.</li> 
+      <li>AI Alignment, studying how align AI models with human preferences and practical applications.</li>
+    </ul>
   </p>
-
 
 portrait_url: /assets/images/photos/pic.jpg
 # portrait_caption: >-

@@ -34,7 +34,7 @@ short_bio: >-
     My research directions include:
     <ul>
       <li>Intelligent Software Engineering (AI for SE), studying how to use AI to improve the efficiency and quality of software engineering, such as code generation, test generation, and code optimization.</li> 
-      <li>Reasoning Models, studying how to efficiently and effectively scale the reasoning capability of AI models.</li>
+      <li>AI Safety, studying how to improve the robustness of AI systems to malicious attacks, such as poisoning attacks and jailbreak attacks.</li>
     </ul>
   </p>
 

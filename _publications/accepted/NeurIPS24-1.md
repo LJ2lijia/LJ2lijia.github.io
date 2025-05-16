@@ -2,7 +2,7 @@
 title:          "EvoCodeBench: An Evolving Code Generation Benchmark with Domain-Specific Evaluations"
 date:           2024-09-26
 selected:       true
-pub:            "The 38th Conference on Neural Information Processing Systems (NeurIPS 2024)"
+pub:            "The 38th Conference on Neural Information Processing Systems (NeurIPS 2024 D\&B Track)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'

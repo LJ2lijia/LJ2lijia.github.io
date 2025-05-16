@@ -2,7 +2,7 @@
 title:          "aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Processing"
 date:           2024-12-16
 selected:       true
-pub:            "The 47th International Conference on Software Engineering (ICSE 2025)"
+pub:            "The 47th International Conference on Software Engineering (ICSE 2025 SEIP Track)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Oral</span>'

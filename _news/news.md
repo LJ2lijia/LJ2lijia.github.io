@@ -7,4 +7,6 @@ items:
     date: 2025-2-30
   - title: "Our paper <strong>Large Language Model-Aware In-Context Learning for Code Generation</strong> has been accepted by TOSEM 2025."
     date: 2025-1-02
+  - title: "Congratulation, our two papers are accepted by ACL 2025!"
+    date: 2025-5-16
 --- 

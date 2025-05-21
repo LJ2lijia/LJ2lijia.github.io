@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 14th International Conference on Internetware (Internetware 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-C, Oral</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-C, Oral</span>'
 pub_date:       "Pages 270-280, 05 October 2023"
 
 # abstract: >-

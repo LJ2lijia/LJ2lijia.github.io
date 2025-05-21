@@ -5,7 +5,7 @@ selected:       false
 pub:            "Empirical Software Engineering (EMSE)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-B</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-B</span>'
 pub_date:       "Volume 30, Issue 3, 28 March 2025"
 
 # abstract: >-

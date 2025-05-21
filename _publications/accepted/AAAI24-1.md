@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A/span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "Pages 437-445, 20 February 2024"
 
 # abstract: >-

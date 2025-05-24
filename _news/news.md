@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "I passed the defense of my PhD thesis!"
+    date: 2025-5-22
   - title: "Our paper <strong>Line-level Semantic Structure Learning for Code Vulnerability Detection</strong> has been accepted by Internetware 2025."
     date: 2025-4-16
   - title: "Our paper <strong>Escalating LLM-based Code Translation Benchmarking into the Class-level Era</strong> has been accepted by ISSTA 2025."

@@ -5,7 +5,7 @@ selected:       false
 pub:            "ACM Transactions on Software Engineering and Methodology (TOSEM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "Volume 33, Issue 8, Pages 1-26, 21 November 2024"
 
 # abstract: >-

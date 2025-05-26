@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 36th Conference on Neural Information Processing Systems (NeurIPS 2022)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "Pages 21442-21454, 28 November 2022"
 
 # abstract: >-

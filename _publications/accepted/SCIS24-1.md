@@ -5,7 +5,7 @@ selected:       false
 pub:            "Science China Information Sciences (SCIS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "Volume 67, Number 191101, 20 August 2024"
 
 # abstract: >-

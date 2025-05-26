@@ -5,7 +5,7 @@ selected:       true
 pub:            "The 47th International Conference on Software Engineering (ICSE 2025 SEIP Track)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Oral</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2025"
 
 # abstract: >-

@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 45th International Conference on Software Engineering (ICSE 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Oral</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "Pages 2124-2135, 26 July 2023"
 
 # abstract: >-

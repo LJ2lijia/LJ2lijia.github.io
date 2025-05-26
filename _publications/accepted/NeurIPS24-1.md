@@ -5,7 +5,7 @@ selected:       true
 pub:            "The 38th Conference on Neural Information Processing Systems (NeurIPS 2024 D&B Track)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "2024"
 
 # abstract: >-

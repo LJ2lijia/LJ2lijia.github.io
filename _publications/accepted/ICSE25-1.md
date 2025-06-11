@@ -25,4 +25,5 @@ authors:
   - Ge Li
 links:
   Paper: https://arxiv.org/pdf/2410.13187
+  Code: https://github.com/aixcoder-plugin/aiXcoder-7B
 ---

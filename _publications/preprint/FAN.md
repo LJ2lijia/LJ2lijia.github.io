@@ -21,4 +21,5 @@ authors:
   - et al.
 links:
   Paper: https://arxiv.org/pdf/2410.02675
+  Code: https://github.com/YihongDong/FAN
 ---

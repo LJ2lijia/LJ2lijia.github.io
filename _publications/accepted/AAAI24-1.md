@@ -21,5 +21,5 @@ authors:
   - Hong Mei
 links:
   Paper: https://dl.acm.org/doi/10.1609/aaai.v38i1.27798
-  Data: https://github.com/LJ2lijia/AdapT
+  Code: https://github.com/LJ2lijia/AdapT
 ---

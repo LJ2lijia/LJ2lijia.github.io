@@ -22,4 +22,5 @@ authors:
   - et al.
 links:
   Paper: https://arxiv.org/pdf/2503.15301
+  Code: https://github.com/aixcoder-plugin/aixcoder-7b-v2
 ---

@@ -24,4 +24,5 @@ authors:
   - et al.
 links:
   Paper: https://www.arxiv.org/pdf/2502.21309
+  Code: https://github.com/YihongDong/FANformer
 ---

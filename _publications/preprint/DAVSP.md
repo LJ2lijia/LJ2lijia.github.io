@@ -1,6 +1,5 @@
 ---
-title:          "DAVSP: Safety Alignment for Large Vision-Language Models
-via Deep Aligned Visual Safety Prompt"
+title:          "DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt"
 date:           2025-06-11
 selected:       false
 pub:            "arXiv"

@@ -2,11 +2,11 @@ primary_name: "Jia Li (李佳)"
 secondary_name: ""
 navbar_name: "Jia Li"
 
-positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Ph.D. Student
-- logo: /assets/images/badges/THU.png
-  name: Assistant Professor (Incoming)
+# positions:
+# - logo: /assets/images/badges/THU.png
+#   name: Assistant Professor
+# - logo: /assets/images/badges/PKU_red.png  # Logo is optional
+#   name: Ph.D
 
 
 email: "lijia@stu.pku.edu.cn"
@@ -23,20 +23,17 @@ orcid: 0000-0002-5579-8852
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year Ph.D. Student at the School of Computer Science, Peking University (PKU). My supervisor is Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>. I expect to graduate in July 2025. 
-  </p>
-
-  <p>
-     I will join the College of AI at Tsinghua University as an assistant professor in August 2025! I am looking for two <b>PhD students</b> to start in September 2026 and <b>intern students</b>. Feel free to email me with your resume attached.
-  </p>
+    I am the Assistant Professor of College of AI at Tsinghua University. Before joining Tsinghua, I obtained my PhD degree from Peking University, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
     
-  <p>
-    My research directions include:
+    My research interests include:
     <ul>
-      <li>Intelligent Software Engineering (AI for SE), studying how to use AI to improve the efficiency and quality of software engineering, such as code generation, test generation, and code optimization.</li> 
-      <li>AI Safety, studying how to improve the robustness of AI systems to malicious attacks, such as poisoning attacks and jailbreak attacks.</li>
+      <li>AI Safety, identifying and mitigating the safety risks of AI systems in the real world.</li> 
+      <li>Software Security, leveraging AI to identify and mitigate the security risks of software systems in the real world.</li>
     </ul>
-  </p>
+
+    I am looking for highly-motivated interns to join my research group. Feel free to email me with your resume attached.
+
+    长期招收线上/线下科研实习生，可提供工位、定期一对一讨论，欢迎优秀本科生和研究生联系我，请附带上你的简历。
 
 portrait_url: /assets/images/photos/pic.jpg
 # portrait_caption: >-

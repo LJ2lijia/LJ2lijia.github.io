@@ -29,7 +29,7 @@ short_bio: >-
     My research interests include:
     <ul>
       <li>AI Safety, identifying and mitigating the safety risks of AI systems in the real world.</li> 
-      <li>Intelligent Software Security, leveraging AI to identify and mitigate the security risks of software systems in the real world.</li>
+      <li>Intelligent Software Security, leveraging AI to detect and repair the code defects and vulnerabilities of real-world software repositories.</li>
     </ul>
   </p>
   <p>

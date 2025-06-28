@@ -29,7 +29,7 @@ short_bio: >-
     My goal is to make more secure AIware (the future software built by source code and AI). Specifically, my research directions include:
     <ul>
       <li>AI Safety, identifying and mitigating the safety risks of AI in real-world applications, such as jailbreaking attacks, poisoning attacks, and safety alignment.</li> 
-      <li> Code Security, detecting and mitigating the defects and vulnerabilities of real-world code repositories, such as test generation, fuzzing, and code vulnerability detection.</li> 
+      <li> Software Security, detecting and mitigating the code defects and vulnerabilities of real-world software projects, such as test generation, fuzzing, and code vulnerability detection.</li> 
     </ul>
   </p>
   <p>

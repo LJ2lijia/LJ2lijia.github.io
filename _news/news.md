@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "I joined the College of AI at Tsinghua University as an assistant professor!"
+    date: 2025-8-01
   - title: "I passed the defense of my PhD thesis!"
     date: 2025-5-22
   - title: "Our paper <strong>Line-level Semantic Structure Learning for Code Vulnerability Detection</strong> has been accepted by Internetware 2025."

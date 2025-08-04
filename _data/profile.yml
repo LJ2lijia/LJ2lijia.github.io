@@ -9,7 +9,7 @@ navbar_name: "Jia Li"
 #   name: Ph.D
 
 
-email: "lijia@stu.pku.edu.cn"
+email: "jia_li@mail.tsinghua.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: Us0ZgUcAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: LJ2lijia
@@ -23,13 +23,13 @@ orcid: 0000-0002-5579-8852
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am the Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
+    I am the Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I lead the Tsinghua University Programming Language Processing Group (THU-PLP). I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
   </p>
   <p>
-    My goal is to make more secure AIware (the future software built by source code and AI). Specifically, my research directions include:
+    My research direction is Programming Language Processing (PLP), which aims to develop artificial intelligence techniques for understanding and generating source code. Specifically, my research interests include:
     <ul>
-      <li>AI Safety, identifying and defending against the safety risks of AI in real-world applications, such as jailbreaking attacks, poisoning attacks, and safety alignment.</li> 
-      <li>Software Security, leveraging AI to detect and repair the code defects and vulnerabilities of real-world software projects, such as test generation, fuzzing, and code vulnerability detection.</li> 
+      <li>Foundation models for PLP. We develop new foundation models (such as model architectures, training strategies, inference strategies, and evaluation metrics) for improving the capabilities of models in code understanding and code generation.</li>
+      <li>Applications of PLP. We explore the intersection of PLP and other disciplines. For example, we apply PLP to improve the efficiency of software development, such as code generation, test generation, and code optimization. We are also interested in the application of PLP in embodied AI and neuroscience.</li>
     </ul>
   </p>
   <p>

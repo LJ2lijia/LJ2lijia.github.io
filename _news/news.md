@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Congratulations! Four of our papers were accepted by NeurIPS 2025, including one Spotlight and three Poster papers!"
+    date: 2025-9-19
   - title: "I joined the College of AI at Tsinghua University as an assistant professor!"
     date: 2025-8-01
   - title: "I passed the defense of my PhD thesis!"

@@ -1,7 +1,7 @@
 ---
 title:          "StackTrans: From Large Language Model to Large Pushdown Automata Model"
 date:           2025-09-19
-selected:       true
+selected:       false
 pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

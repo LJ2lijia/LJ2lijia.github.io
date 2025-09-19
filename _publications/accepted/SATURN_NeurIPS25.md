@@ -5,7 +5,7 @@ selected:       false
 pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
 # abstract: >-

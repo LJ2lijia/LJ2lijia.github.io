@@ -1,7 +1,7 @@
 ---
 title:          "SATURN: SAT-based Reinforcement Learning to Unleash Language Model Reasoning"
 date:           2025-09-19
-selected:       false
+selected:       true
 pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

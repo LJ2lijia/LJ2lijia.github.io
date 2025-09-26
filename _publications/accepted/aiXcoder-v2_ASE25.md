@@ -1,8 +1,8 @@
 ---
-title:          "aiXcoder-7B-v2: Training LLMs to Fully Utilize the Long Context in Repository-level Code Completion"
-date:           2025-03-19
+title:          "aiXcoder-7B-v2: Aligning LLMs to Fully Utilize the Cross-file Context in Repository-level Code Completion"
+date:           2025-09-26
 selected:       false
-pub:            "arXiv"
+pub:            "The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
@@ -19,7 +19,9 @@ authors:
   - He Zong
   - Yihong Dong
   - Kechi Zhang
-  - et al.
+  - Siyuan Jiang
+  - Zhi Jin
+  - Ge Li
 links:
   Paper: https://arxiv.org/pdf/2503.15301
   Code: https://github.com/aixcoder-plugin/aixcoder-7b-v2

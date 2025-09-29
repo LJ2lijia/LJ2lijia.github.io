@@ -17,5 +17,5 @@ authors:
   - Jia Li#
 links:
   Paper: https://arxiv.org/pdf/2509.22237
-  Code: https://github.com/Kndy666/FeatBench
+  Data: https://github.com/Kndy666/FeatBench
 ---

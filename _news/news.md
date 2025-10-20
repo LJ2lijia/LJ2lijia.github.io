@@ -1,7 +1,11 @@
 ---
 category: news
 items:
-  - title: "Our paper <strong>aiXcoder-7B-v2: Aligning LLMs to Fully Utilize the Cross-file Context in Repository-level Code Completion</strong> has been accepted by ASE 2025."
+  - title: "Our paper (AdapTrack) has been accepted by ICSE 2026."
+    date: 2025-10-16
+  - title: "Our paper (M2CVD) has been accepted by TOSEM 2025."
+    date: 2025-10-09
+  - title: "Our paper (aiXcoder-7B-v2) has been accepted by ASE 2025."
     date: 2025-9-26
   - title: "Congratulations! Four of our papers were accepted by NeurIPS 2025, including one Spotlight and three Poster papers!"
     date: 2025-9-19

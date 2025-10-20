@@ -15,7 +15,7 @@ authors:
   - Lekang Yang
   - Yuetong Liu
   - Yitong Zhang
-  - Jia Li#
+  - Jia Li
 links:
   Paper: https://arxiv.org/pdf/2509.24975
   Code: https://github.com/wellbeingyang/DLM4UTG-open

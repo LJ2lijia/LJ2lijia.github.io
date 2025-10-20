@@ -13,12 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "/" # the subpath of your site, e.g. /blog
+title: "Jia Li's Homepage"
+email: "jia_li@mail.tsinghua.edu.cn"
+description: "Jia Li's Academic Homepage"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lj2lijia.github.io"
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: Asia/Shanghai
+
 plugins:
   - jekyll-email-protect
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

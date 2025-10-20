@@ -13,7 +13,7 @@ pub_date:       "2025"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Yitong Zhang
-  - Jia Li#
+  - Jia Li
   - Liyi Cai
   - Ge Li
 links:

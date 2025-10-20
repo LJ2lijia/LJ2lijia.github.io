@@ -26,10 +26,10 @@ short_bio: >-
     I am the Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
   </p>
   <p>
-    My research direction is Programming Language Processing (PLP), which aims to develop artificial intelligence techniques for understanding and generating source code. Specifically, my research interests include:
+    My research lies in the intersection of Artificial Intelligence (AI) and Software Engineering (SE). Specifically, my research interests include:
     <ul>
-      <li>Foundation models for PLP. We develop new foundation models (such as model architectures, training strategies, inference strategies, and evaluation metrics) for improving the capabilities of models in code understanding and code generation.</li>
-      <li>Applications of PLP. We explore the intersection of PLP and other disciplines. For example, we apply PLP to improve the efficiency of software development, such as code generation, test generation, and code optimization. We are also interested in the application of PLP in embodied AI and neuroscience.</li>
+      <li> AI for SE (aka. Intelligent Software Engineering): We develop AI techniques for improving the efficiency and quality of software development, such as code generation, test generation, and code repair.</li>
+      <li> SE for AI: We explore SE techniques for improving the performance and reliability of AI systems.</li>
     </ul>
   </p>
   <p>

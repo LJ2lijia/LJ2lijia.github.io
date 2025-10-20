@@ -14,7 +14,7 @@ pub_date:       "2025"
 authors:
   - Haorui Chen
   - Chengze Li
-  - Jia Li
+  - Jia Li#
 links:
   Paper: https://arxiv.org/pdf/2509.22237
   Data: https://github.com/Kndy666/FeatBench

@@ -15,7 +15,7 @@ authors:
   - Liyi Cai*
   - Yijie Ren*
   - Yitong Zhang*
-  - Jia Li
+  - Jia Li#
 links:
   Paper: https://arxiv.org/pdf/2510.00591
   Code: https://github.com/Cai-bird-one/live-software

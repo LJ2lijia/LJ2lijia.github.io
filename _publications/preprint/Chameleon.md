@@ -15,7 +15,7 @@ authors:
   - Yitong Zhang
   - Ximo Li
   - Liyi Cai
-  - Jia Li
+  - Jia Li#
 links:
   Paper: https://arxiv.org/pdf/2509.11250
   Code: https://github.com/zhangyitonggg/attack2gui

@@ -17,5 +17,5 @@ authors:
   - Ge Li
   - Zhi Jin
 links:
-  Paper: ""
+  Paper: "https://arxiv.org/pdf/2510.17376"
 ---

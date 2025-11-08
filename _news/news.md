@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our paper (DAVSP) has been accepted by AAAI 2026."
+    date: 2025-11-08
   - title: "Our paper (AdapTrack) has been accepted by ICSE 2026."
     date: 2025-10-16
   - title: "Our paper (M2CVD) has been accepted by TOSEM 2025."

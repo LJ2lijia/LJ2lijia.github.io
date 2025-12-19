@@ -28,8 +28,8 @@ short_bio: >-
   <p>
     My research lies in the intersection of Artificial Intelligence (AI) and Software Engineering (SE). Specifically, my research interests include:
     <ul>
-      <li> AI for SE (aka. Intelligent Software Engineering): We develop AI techniques for improving the efficiency and quality of software development, such as code generation, test generation, and code repair.</li>
-      <li> SE for AI: We explore SE techniques for improving the performance and reliability of AI systems.</li>
+      <li> AI for SE (aka. Intelligent Software Engineering): We study Code Foundation Models and SE Agents for improving the efficiency and quality of software development, such as code generation, test generation, and code repair.</li>
+      <li> SE for AI: We explore SE techniques for improving AI systems, such as AI safety, AI efficiency, and AI explainability.</li>
     </ul>
   </p>
   <p>

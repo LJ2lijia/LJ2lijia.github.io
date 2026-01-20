@@ -27,8 +27,10 @@ short_bio: >-
   </p>
   <p>
     I lead the Tsinghua Intelligent Software Engineering (TISE) Lab and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Our lab explores the interaction between AI and Software Engineering (SE), including:
-    - AI4SE: Using AI techniques (such as LLMs and Agents) to improve the efficiency and quality of software engineering.
-    - SE4AI: Improving AI system software (such as deep learning frameworks and complilers) to support AI techniques.
+    <ul>
+      <li> AI4SE: Using AI techniques (such as LLMs and Agents) to improve the efficiency and quality of software engineering.
+      <li> SE4AI: Improving AI system software (such as deep learning frameworks and complilers) to support AI techniques.
+    </ul>
   </p>
   <p>
     I am looking for <b>highly-motivated interns</b> to join my research group. In our research group, you can encounter real-world problems, and your research may have the opportunity to be applied practical products and used by millions of developers worldwide. Feel free to email me with your resume attached.

@@ -26,7 +26,9 @@ short_bio: >-
     I am the tenure-track Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
   </p>
   <p>
-    I lead the Tsinghua Intelligent Software Engineering (TISE) Lab and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Our lab explores AI techniques (such as LLMs and Agents) for automating software engineering. 
+    I lead the Tsinghua Intelligent Software Engineering (TISE) Lab and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Our lab explores the interaction between AI and Software Engineering (SE), including:
+    - AI4SE: Using AI techniques (such as LLMs and Agents) to improve the efficiency and quality of software engineering.
+    - SE4AI: Improving AI system software (such as deep learning frameworks and complilers) to support AI techniques.
   </p>
   <p>
     I am looking for <b>highly-motivated interns</b> to join my research group. In our research group, you can encounter real-world problems, and your research may have the opportunity to be applied practical products and used by millions of developers worldwide. Feel free to email me with your resume attached.

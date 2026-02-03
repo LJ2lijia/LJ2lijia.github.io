@@ -1,6 +1,6 @@
 ---
 title:          "Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments"
-date:           2025-01-31
+date:           2026-01-31
 selected:       false
 pub:            "arXiv"
 # pub_pre:        "Submitted to "

@@ -1,5 +1,5 @@
 ---
-title:          "Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments"
+title:          "Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars"
 date:           2025-01-31
 selected:       false
 pub:            "arXiv"
@@ -13,10 +13,12 @@ pub_date:       "2026"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Yitong Zhang
-  - Ximo Li
-  - Liyi Cai
+  - Yongmin Li
+  - Yuetong Liu
   - Jia Li#
+  - Xiaoran Jia
+  - Zherui Li
+  - Ge Li
 links:
-  Paper: https://arxiv.org/pdf/2509.11250
-  Code: https://github.com/zhangyitonggg/attack2gui
+  Paper: https://arxiv.org/pdf/2602.00612
 ---

@@ -6,4 +6,5 @@ items:
   - title: "Association for Computational Linguistics Rolling Review"
   - title: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
   - title: "Communications of the ACM"
+  - title: "Automated Software Engineering"
 --- 

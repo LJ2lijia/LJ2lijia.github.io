@@ -28,8 +28,8 @@ short_bio: >-
   <p>
     I lead the Tsinghua Foundation Models and Agents Group and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Recently, our research group has been focusing on the following areas:
     <ul>
-      <li> Foundation Models: Designing novel model architectures, training/inference algorithms, and evaluation benchmarks for foundation models (including language models and multi-modal models). We are particularly interested in improving the reasoning ability, planning ability, tool-calling ability, and safety of foundation models.
-      <li> Agents: Developing powerful agents in digital and physical worlds, such as software engineering agents, AI scientists, and embodied agents.
+      <li> <b>Foundation Models</b>: Designing novel model architectures, training/inference algorithms, and evaluation benchmarks for foundation models (including language models and multi-modal models). We are particularly interested in improving the <b>reasoning ability</b>, <b>planning ability</b>, <b>tool-calling ability</b>, and <b>safety</b> of foundation models.
+      <li> <b>Agents</b>: Developing powerful agents in digital and physical worlds, such as <b>software engineering agents</b>, <b>AI scientists</b>, and <b>embodied agents</b>.
     </ul>
   </p>
   <p>

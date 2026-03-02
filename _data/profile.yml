@@ -26,14 +26,14 @@ short_bio: >-
     I am the tenure-track Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
   </p>
   <p>
-    I lead the Tsinghua Intelligent Software Engineering (TISE) Lab and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Our lab explores the interaction between AI and Software Engineering (SE), including:
+    I lead the Tsinghua Foundation Models and Agents Group and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Recently, our research group has been focusing on the following areas:
     <ul>
-      <li> AI4SE: Building more powerful and efficient Foundation Models and Agent for automated software engineering.
-      <li> SE4AI: Building more reliable infrastructure for AI systems.
+      <li> Foundation Models: Designing novel model architectures, training/inference algorithms, and evaluation benchmarks for foundation models (including language models and multi-modal models). We are particularly interested in improving the reasoning ability, planning ability, tool-calling ability, and safety of foundation models.
+      <li> Agents: Developing powerful agents in digital and physical worlds, such as software engineering agents, AI scientists, and embodied agents.
     </ul>
   </p>
   <p>
-    I am looking for <b>highly-motivated interns</b> to join my research group. In our research group, you can encounter real-world problems, and your research may have the opportunity to be applied practical products and used by millions of developers worldwide. Feel free to email me with your resume attached.
+    I am looking for <b>highly-motivated interns</b> to join my group. Feel free to email me with your resume attached.
   </p>
 
 portrait_url: /assets/images/photos/pic.jpg

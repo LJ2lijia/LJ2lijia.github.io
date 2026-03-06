@@ -26,10 +26,11 @@ short_bio: >-
     I am the tenure-track Assistant Professor of <a href="https://collegeai.tsinghua.edu.cn/">College of AI</a> at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I obtained my PhD degree from <a href="https://www.pku.edu.cn/">Peking University</a> in 2025, supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/">Ge Li</a>.
   </p>
   <p>
-    I lead the Tsinghua Foundation Models and Agents Group and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Recently, our research group has been focusing on the following areas:
+    I lead the Tsinghua Intelligence Software Engineering Group and work closely with Prof. <a href="https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en">Shi-Min Hu</a>. Our group focuses on the interdisciplinary research at the intersection of AI and Software Engineering (SE):
     <ul>
-      <li> <b>Foundation Models</b>: Designing novel model architectures, training/inference algorithms, and evaluation benchmarks for foundation models (including language models and multi-modal models). We are particularly interested in improving the <b>reasoning ability</b>, <b>planning ability</b>, <b>tool-calling ability</b>, and <b>safety</b> of foundation models.
-      <li> <b>Agents</b>: Developing powerful agents in digital and physical worlds, such as <b>software engineering agents</b>, <b>AI scientists</b>, and <b>embodied agents</b>.
+      <li> <b>AI for SE</b>: Studying powerful foundation models and agents for automated software engineering. We are particularly interested in improving the <b>reasoning ability</b>, <b>planning ability</b>, <b>tool-calling ability</b>, <b>collaboration ability</b>, and <b>safety</b> of AI.
+      <li> <b>SE for AI</b>: Treating AI as a special kind of software, and studying the software engineering principles and techniques for AI. For example, how to prepare the data, how to understand the model, etc.
+      <li> <b>AIware</b>: Exploring the next generation of software in the AI era, such as AI-driven software.
     </ul>
   </p>
   <p>

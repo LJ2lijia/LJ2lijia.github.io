@@ -63,6 +63,25 @@ navbar_title: Services
                     </div>
                 {% endif %}
             {% endif %}
+
+            {% if site.data.display.services.show_talk %}
+                {% assign talk_items = site.services | where: "category", "talk" | first %}
+                {% if talk_items %}
+                    <div class="col-12">
+                        <div class="my-3 bg-white shadow-sm rounded-sm">
+                            <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-microphone"></i> Talk</h6>
+                            <div class="px-3 pb-1">
+                                {% assign sorted_items = talk_items.items | sort: "year" | reverse %}
+                                {% for item in sorted_items %}
+                                    <div class="my-1 d-flex">
+                                        <div>{{ item.title }}</div>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endif %}
         </div>
     </div>
 </div>

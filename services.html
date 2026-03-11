@@ -7,18 +7,17 @@ navbar_title: Services
 <div class="row mt-3">
     <div class="col-12">
         <div class="row">
-            {% if site.data.display.services.show_reviewer %}
-                {% assign reviewer_items = site.services | where: "category", "reviewer" | first %}
-                {% if reviewer_items %}
-                    <div class="col-md-6">
+            {% if site.data.display.services.show_program_chair %}
+                {% assign chair_items = site.services | where: "category", "program_chair" | first %}
+                {% if chair_items %}
+                    <div class="col-12">
                         <div class="my-3 bg-white shadow-sm rounded-sm">
-                            <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-check-circle"></i> Reviewer</h6>
+                            <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-user-tie"></i> Program Chair</h6>
                             <div class="px-3 pb-1">
-                                {% assign sorted_items = reviewer_items.items | sort: "year" | reverse %}
+                                {% assign sorted_items = chair_items.items | sort: "year" | reverse %}
                                 {% for item in sorted_items %}
                                     <div class="my-1 d-flex">
                                         <div>{{ item.title }}</div>
-                                        <!-- <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.venue }}, {{ item.year }}</i></div> -->
                                     </div>
                                 {% endfor %}
                             </div>
@@ -30,7 +29,7 @@ navbar_title: Services
             {% if site.data.display.services.show_program_committee %}
                 {% assign pc_items = site.services | where: "category", "program_committee" | first %}
                 {% if pc_items %}
-                    <div class="col-md-6">
+                    <div class="col-12">
                         <div class="my-3 bg-white shadow-sm rounded-sm">
                             <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-users"></i> Program Committee Member</h6>
                             <div class="px-3 pb-1">
@@ -38,7 +37,25 @@ navbar_title: Services
                                 {% for item in sorted_items %}
                                     <div class="my-1 d-flex">
                                         <div>{{ item.title }}</div>
-                                        <!-- <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.venue }}, {{ item.year }}</i></div> -->
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endif %}
+
+            {% if site.data.display.services.show_reviewer %}
+                {% assign reviewer_items = site.services | where: "category", "reviewer" | first %}
+                {% if reviewer_items %}
+                    <div class="col-12">
+                        <div class="my-3 bg-white shadow-sm rounded-sm">
+                            <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-check-circle"></i> Reviewer</h6>
+                            <div class="px-3 pb-1">
+                                {% assign sorted_items = reviewer_items.items | sort: "year" | reverse %}
+                                {% for item in sorted_items %}
+                                    <div class="my-1 d-flex">
+                                        <div>{{ item.title }}</div>
                                     </div>
                                 {% endfor %}
                             </div>

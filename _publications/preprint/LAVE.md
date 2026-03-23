@@ -21,4 +21,5 @@ authors:
   - Ge Li
 links:
   Paper: https://arxiv.org/pdf/2602.00612
+  Code: https://github.com/TsinghuaISE/LAVE
 ---

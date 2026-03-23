@@ -1,5 +1,5 @@
 ---
-title:          "StackTrans: From Large Language Model to Large Pushdown Automata Model"
+title:          "Recursive Transformer: Boosting Reasoning Ability with State Stack"
 date:           2025-09-19
 selected:       false
 pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
@@ -21,5 +21,6 @@ authors:
   - Jingjing Xu
   - Zhi Jin
 links:
-  Paper: https://arxiv.org/pdf/2507.15343
+  Paper: https://openreview.net/pdf?id=2bbDg587uh
+
 ---

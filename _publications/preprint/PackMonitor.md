@@ -19,5 +19,5 @@ authors:
   - Shi-Min Hu
 links:
   Paper: https://arxiv.org/pdf/2602.20717
-  Data: https://github.com/TsinghuaISE/PackMonitor
+  Code: https://github.com/TsinghuaISE/PackMonitor
 ---

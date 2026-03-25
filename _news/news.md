@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our two papers (VulInstruct and EffiSkel) have been accepted by FSE 2026."
+    date: 2026-03-25
   - title: "Our paper (DAVSP) has been accepted by AAAI 2026."
     date: 2025-11-08
   - title: "Our paper (AdapTrack) has been accepted by ICSE 2026."

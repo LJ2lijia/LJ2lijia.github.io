@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our two papers (PackMonitor and Chameleon) have been directly accepted by ISSTA 2026, and one paper is under major revision."
+    date: 2026-04-16
   - title: "Our two papers (VulAgent and EvoCoT) have been accepted by ACL 2026."
     date: 2026-04-06
   - title: "Our two papers (VulInstruct and EffiSkel) have been accepted by FSE 2026."

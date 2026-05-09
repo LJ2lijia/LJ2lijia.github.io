@@ -6,7 +6,7 @@ pub:            "The 40th Annual AAAI Conference on Artificial Intelligence (AAA
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
-pub_date:       "Just Accepted, 2025"
+pub_date:       "40(44), 38111-38119, 2026"
 
 # abstract: >-
 #   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
@@ -17,6 +17,6 @@ authors:
   - Liyi Cai
   - Ge Li
 links:
-  Paper: https://arxiv.org/pdf/2506.09353
+  Paper: https://ojs.aaai.org/index.php/AAAI/article/view/41149
   Code: https://github.com/zhangyitonggg/DAVSP
 ---

@@ -1,25 +1,21 @@
 ---
-title:          "FAN: Fourier Analysis Networks"
-date:           2025-09-19
+title:          "MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation"
+date:           2026-04-27
 selected:       false
-pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
+pub:            "arXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
-pub_date:       "2025"
+pub_date:       "April 2026"
 
 # abstract: >-
 #   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Yihong Dong
-  - Ge Li
-  - Yongding Tao
-  - Xue Jiang
-  - Kechi Zhang
-  - Jia Li
-  - et al.
+  - Mofei Li*
+  - Taozhi Chen*
+  - Guowei Yang
+  - Jia Li#
 links:
-  Paper: https://openreview.net/pdf?id=Xpi0LpWbvF
-  Code: https://github.com/YihongDong/FAN
+  Paper: https://arxiv.org/pdf/2604.24222
 ---

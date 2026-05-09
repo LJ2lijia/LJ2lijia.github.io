@@ -1,12 +1,12 @@
 ---
-title:          "FANformer: Improving Large Language Models Through Effective Periodicity Modeling"
+title:          "Reasoning is Periodicity? Improving Large Language Models Through Effective Periodicity Modeling"
 date:           2025-09-19
 selected:       false
 pub:            "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
-pub_date:       "Just Accepted, 2025"
+pub_date:       "2025"
 
 # abstract: >-
 #   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
@@ -23,6 +23,6 @@ authors:
   - Jia Li
   - et al.
 links:
-  Paper: https://www.arxiv.org/pdf/2502.21309
+  Paper: https://openreview.net/pdf/36262d4d446a23892b96a648474da8aea8c6980d.pdf
   Code: https://github.com/YihongDong/FANformer
 ---

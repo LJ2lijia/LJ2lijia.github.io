@@ -1,6 +1,8 @@
 ---
 category: reviewer
 items:
+  - title: "Empirical Software Engineering"
+  - title: "The 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)"
   - title: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
   - title: "IEEE Transaction on Software Engineering (TSE)"
   - title: "Association for Computational Linguistics Rolling Review"

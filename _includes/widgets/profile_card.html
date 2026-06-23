@@ -82,6 +82,12 @@
                         </a>
                         {% endif %}
 
+                        {% if site.data.profile.xiaohongshu %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.xiaohongshu }}">
+                            <svg class="social-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm-1.05 5.25h2.1v1.05h1.05v2.1h-1.05v1.05h-2.1v-1.05H9.9v-2.1h1.05V7.25zm5.25 0h2.1v7.35h-2.1V7.25zm-3.675 1.575h2.1v5.775h-2.1V8.825zm3.675 0h2.1v5.775h-2.1V8.825z"/></svg> Xiaohongshu
+                        </a>
+                        {% endif %}
+
                         {% if site.data.profile.linkedin %}
                         <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}">
                             <i class="fab fa-linkedin"></i> LinkedIn

@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "Just Accepted, June 2026"
 
 # abstract: >-

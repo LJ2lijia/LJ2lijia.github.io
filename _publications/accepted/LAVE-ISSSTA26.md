@@ -1,6 +1,6 @@
 ---
 title:          "Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars"
-date:           2026-01-31
+date:           2026-06-25
 selected:       false
 pub:            "The 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)"
 # pub_pre:        "Submitted to "

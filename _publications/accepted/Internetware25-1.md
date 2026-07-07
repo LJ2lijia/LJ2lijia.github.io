@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 16th International Conference on Internetware (Internetware 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "Pages 269-280, 27 October 2025"
 
 # abstract: >-

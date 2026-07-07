@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 48th International Conference on Software Engineering (ICSE 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-publication badge-success">Oral</span>'
+# pub_last:       '<span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "Just Accepted, 2025"
 
 # abstract: >-

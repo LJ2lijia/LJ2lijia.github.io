@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "1477-1489, 2025"
 
 # abstract: >-

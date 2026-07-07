@@ -5,7 +5,7 @@ selected:       false
 pub:            "The 34th International Symposium on Software Testing and Analysis (ISSTA 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "Volume 2, Issue ISSTA, Pages 1421-1444, 22 June 2025"
 
 # abstract: >-

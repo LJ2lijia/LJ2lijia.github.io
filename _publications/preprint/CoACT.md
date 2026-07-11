@@ -15,7 +15,7 @@ authors:
   - Haorui Chen
   - Yuancheng Zhu
   - Yitong Zhang
-  - Jia Li*
+  - Jia Li#
 links:
   Paper: https://arxiv.org/pdf/2607.02911
   Code: https://github.com/THU-Agent/CoACT

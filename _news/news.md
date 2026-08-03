@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our paper <strong>Structured Chain-of-Thought Prompting for Code Generation</strong> is selected as the featured article in TOSEM."
+    date: 2026-07-31
   - title: "Our two papers (LAVE and PSC) have been accepted by ISSTA 2026."
     date: 2026-06-25
   - title: "Our two papers (PackMonitor and Chameleon) have been directly accepted by ISSTA 2026."

@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our paper DiffuTester has been accepted by EMNLP 2026 as a main conference paper."
+    date: 2026-08-21
   - title: "Our paper Structured Chain-of-Thought Prompting for Code Generation is selected as the featured article in TOSEM. Only four papers are selected as the featured article in TOSEM."
     date: 2026-07-31
   - title: "Our two papers (LAVE and PSC) have been accepted by ISSTA 2026."

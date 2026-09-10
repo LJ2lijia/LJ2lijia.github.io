@@ -1,12 +1,12 @@
 ---
 title:          "Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation"
-date:           2025-09-14
+date:           2026-09-10
 selected:       false
-pub:            "arXiv"
+pub:            "ACM Transactions on Software Engineering and Methodology (TOSEM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
-pub_date:       "2025"
+pub_date:       "Just Accepted, 2026"
 
 # abstract: >-
 #   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.

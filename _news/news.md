@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our paper <strong>Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation</strong> has been accepted by TOSEM."
+    date: 2026-09-10
   - title: "Our paper DiffuTester has been accepted by EMNLP 2026 as a main conference paper."
     date: 2026-08-21
   - title: "Our paper Structured Chain-of-Thought Prompting for Code Generation is selected as the featured article in TOSEM. Only four papers are selected as the featured article in TOSEM."

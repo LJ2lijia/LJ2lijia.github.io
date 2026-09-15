@@ -1,0 +1,21 @@
+---
+title:          "TyPatch: Transforming Patches into Typestate Rules for Kernel Bug Detection"
+date:           2026-09-12
+selected:       false
+pub:            "arXiv"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A, Poster</span>'
+pub_date:       "Sep 2026"
+
+# abstract: >-
+#   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+# cover:          /assets/images/covers/cover3.jpg
+authors:
+  - Ruoyu Wang
+  - Tuo Li
+  - Jia Li#
+links:
+  Paper: https://arxiv.org/pdf/2609.13728
+  Code: https://github.com/THU-Agent/TyPatch
+---

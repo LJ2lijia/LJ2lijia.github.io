@@ -7,6 +7,6 @@ items:
   - title: "Association for Computational Linguistics Rolling Review (ACL ARR)"
   - title: "IEEE Transaction on Software Engineering (TSE)"
   - title: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
-  - title: "The International Conference on Learning Representations: ICLR 2027."
-  - title: "TheAnnual Conference on Neural Information Processing Systems: NeurIPS 2025, 2026."
+  - title: "The International Conference on Learning Representations: ICLR 2027"
+  - title: "TheAnnual Conference on Neural Information Processing Systems: NeurIPS 2025, 2026"
 --- 

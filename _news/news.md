@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our three papers are directly accepted by ICSE 2027 and one paper is under major revision."
+    date: 2026-10-21
   - title: "Our paper Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation has been accepted by TOSEM."
     date: 2026-09-10
   - title: "Our paper DiffuTester has been accepted by EMNLP 2026 as a main conference paper."

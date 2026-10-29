@@ -1,7 +1,7 @@
 ---
 title:          "CoACT: Action-Preserving Observation Compression for Coding Agents"
 date:           2026-10-21
-selected:       false
+selected:       true
 pub:            "The 49th International Conference on Software Engineering (ICSE 2027)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

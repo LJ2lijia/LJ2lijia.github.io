@@ -1,7 +1,7 @@
 ---
 title:          "Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments"
 date:           2026-04-16
-selected:       false
+selected:       true
 pub:            "The 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

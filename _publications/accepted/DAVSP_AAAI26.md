@@ -5,7 +5,7 @@ selected:       true
 pub:            "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral (Top 3%)</span>'
 pub_date:       "40(44), 38111-38119, 2026"
 
 # abstract: >-

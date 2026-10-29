@@ -1,6 +1,8 @@
 ---
 category: news
 items:
+  - title: "Our paper 'To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation' has been accepted by TOSEM."
+    date: 2026-10-29
   - title: "Our three papers are directly accepted by ICSE 2027 and one paper is under major revision."
     date: 2026-10-21
   - title: "Our paper Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation has been accepted by TOSEM."

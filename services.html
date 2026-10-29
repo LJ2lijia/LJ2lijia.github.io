@@ -26,6 +26,25 @@ navbar_title: Services
                 {% endif %}
             {% endif %}
 
+            {% if site.data.display.services.show_area_chair %}
+                {% assign area_chair_items = site.services | where: "category", "area_chair" | first %}
+                {% if area_chair_items %}
+                    <div class="col-12">
+                        <div class="my-3 bg-white shadow-sm rounded-sm">
+                            <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-clipboard-list"></i> Area Chair</h6>
+                            <div class="px-3 pb-1">
+                                {% assign sorted_items = area_chair_items.items | sort: "year" | reverse %}
+                                {% for item in sorted_items %}
+                                    <div class="my-1 d-flex">
+                                        <div>{{ item.title }}</div>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endif %}
+
             {% if site.data.display.services.show_program_committee %}
                 {% assign pc_items = site.services | where: "category", "program_committee" | first %}
                 {% if pc_items %}

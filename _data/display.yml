@@ -7,6 +7,7 @@ homepage:
 services:
   show_talk: true
   show_program_chair: true
+  show_area_chair: true
   show_reviewer: true
   show_program_committee: true
 
